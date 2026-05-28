@@ -1,5 +1,5 @@
 # Ex.06 Restaurant Website
-# Date:
+# Date:v
 # AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
 
